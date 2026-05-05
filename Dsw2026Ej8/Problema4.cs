@@ -4,10 +4,7 @@ using System.Text;
 
 namespace Dsw2026Ej8
 {
-    public partial class ProductHelper
-
+    internal class Problema4
     {
-        private const string FormatoMoneda = "C";
     }
 }
-        
